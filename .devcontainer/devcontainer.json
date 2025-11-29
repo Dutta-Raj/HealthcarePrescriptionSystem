@@ -1,0 +1,25 @@
+{
+    "name": "C# .NET 8 with Python",
+    "image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0",
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {
+            "version": "3.9"
+        },
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "18"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.csdevkit",
+                "ms-dotnettools.csharp",
+                "ms-python.python",
+                "bradlc.vscode-tailwindcss",
+                "angular.ng-template"
+            ]
+        }
+    },
+    "postCreateCommand": "dotnet --version && python --version",
+    "forwardPorts": [5000, 7000, 8080]
+}
