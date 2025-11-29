@@ -1,0 +1,12 @@
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.AssemblyInfoInputs.cache
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.AssemblyInfo.cs
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.csproj.CoreCompileInputs.cache
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.sourcelink.json
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/bin/Debug/net8.0/HealthcareOCR.Core.deps.json
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/bin/Debug/net8.0/HealthcareOCR.Core.dll
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/bin/Debug/net8.0/HealthcareOCR.Core.pdb
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.dll
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/refint/HealthcareOCR.Core.dll
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/HealthcareOCR.Core.pdb
+/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Core/obj/Debug/net8.0/ref/HealthcareOCR.Core.dll

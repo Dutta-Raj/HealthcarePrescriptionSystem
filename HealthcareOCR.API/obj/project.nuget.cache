@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "7de6KiyieFk=",
+  "success": true,
+  "projectFilePath": "/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.API/HealthcareOCR.API.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.aspnetcore.http.features/5.0.17/microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.aspnetcore.openapi/8.0.21/microsoft.aspnetcore.openapi.8.0.21.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.primitives/5.0.1/microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0/system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.io.pipelines/10.0.0/system.io.pipelines.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.encodings.web/10.0.0/system.text.encodings.web.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.json/10.0.0/system.text.json.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

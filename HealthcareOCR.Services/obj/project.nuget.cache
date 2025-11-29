@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ml+BPn9bI9Q=",
+  "success": true,
+  "projectFilePath": "/workspaces/HealthcarePrescriptionSystem/HealthcareOCR.Services/HealthcareOCR.Services.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.aspnetcore.http.features/5.0.17/microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.primitives/5.0.1/microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0/system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.io.pipelines/10.0.0/system.io.pipelines.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.encodings.web/10.0.0/system.text.encodings.web.10.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.json/10.0.0/system.text.json.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

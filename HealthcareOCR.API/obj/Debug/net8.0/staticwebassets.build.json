@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nc9AVax1KE0a2r0jABFC2txRCfYMAuGiFGephLZpUko=",
+  "Source": "HealthcareOCR.API",
+  "BasePath": "_content/HealthcareOCR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

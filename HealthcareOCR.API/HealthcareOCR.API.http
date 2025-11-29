@@ -1,0 +1,6 @@
+@HealthcareOCR.API_HostAddress = http://localhost:5003
+
+GET {{HealthcareOCR.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
