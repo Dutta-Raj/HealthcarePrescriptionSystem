@@ -17,5 +17,3 @@ An AI-powered full-stack solution for digitizing handwritten medical prescriptio
 - **OCR Service**: Python (Flask + Custom CNN/LSTM Model)
 - **Frontend**: Angular
 - **Database**: SQL Server
-
-## Project Structure
